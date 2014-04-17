@@ -1,0 +1,23 @@
+/* ADMIN CSS */
+/* #post-extras-meta {
+width: 48%;
+float: left;
+margin-right: 6%;
+}
+#drag_to_upload {
+width: 45%;
+float: left;
+min-height: 290px;
+} */
+.golf label {
+width: 25%;
+display: block;
+float: left;
+}
+
+#login h1 a { 
+background-image:url(../images/logo_220_brown.png) !important; 
+background-size: 216px 216px;
+width: 326px;
+height: 216px;
+}
