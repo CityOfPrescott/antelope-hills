@@ -84,7 +84,7 @@ if ( is_post_type_archive( 'tournaments' )){$num_posts = 2;}
 		<?php else : ?>
 				<h1 class="title">Not Found</h1>
 				<p>Sorry, but you are looking for something that isn't here.</p>
-				<?php next_posts_link('Older Entries »', 0); ?>
+				<?php next_posts_link('Older Entries ï¿½', 0); ?>
 		<?php endif; ?>
 	</div>
 <?php if( $tourney_page != 'upcoming' ) { ?>	
